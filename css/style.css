@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer_text {
+    float: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;  
+}
+#boutonf {
+    display: inline-block;
+    float: right;
+    padding-right: 30px;
+    width: 150px;
+    height: 50px;
+    border: 2px;
+    border-color: black;
+    color: black;
+    background-color: brown;
+    text-transform: capitalize;
+}
